@@ -1,4 +1,4 @@
-# Skyblock-Farming-Macro
+
 
 After a long wait, the new version of the macro has been released, fixing bugs and minor problems with the macro such as randomly stopping, insta sell not working and a few others. 
 Here in the new macro, those have been fixed and we have improved so many features for quality of life.
